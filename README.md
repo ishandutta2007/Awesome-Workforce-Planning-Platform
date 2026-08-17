@@ -82,9 +82,33 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+- **[Grist](https://github.com/gristlabs/grist-core)** [![GitHub stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=social&color=white)](https://github.com/gristlabs/grist-core/stargazers)  
+
+  Open-source relational spreadsheet-database that can serve as a flexible scenario-modeling layer for headcount, attrition, and promotion planning.
+
+
+
 - **[Frappe HR](https://github.com/frappe/hrms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
 
   Open-source HR and people-operations app on the Frappe framework covering employee records, leaves, and workforce data.
+
+
+
+- **[Kimai](https://github.com/kimai/kimai)** [![GitHub stars](https://img.shields.io/github/stars/kimai/kimai?style=social&color=white)](https://github.com/kimai/kimai/stargazers)  
+
+  Open-source time-tracking with hourly cost rates and team budgets — useful for labor-cost visibility in workforce planning.
+
+
+
+- **[OrgChart](https://github.com/dabeng/OrgChart)** [![GitHub stars](https://img.shields.io/github/stars/dabeng/OrgChart?style=social&color=white)](https://github.com/dabeng/OrgChart/stargazers)  
+
+  Open-source JavaScript org-chart library for visualizing and extending organization structures with headcount attributes.
+
+
+
+- **[Timefold](https://github.com/TimefoldAI/timefold-solver)** [![GitHub stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver/stargazers)  
+
+  Open-source AI constraint solver (successor to OptaPlanner) for shift scheduling, rostering, and resource allocation.
 
 
 
@@ -97,6 +121,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[MintHCM](https://github.com/minthcm/minthcm)** [![GitHub stars](https://img.shields.io/github/stars/minthcm/minthcm?style=social&color=white)](https://github.com/minthcm/minthcm/stargazers)  
 
   Open-source AI-native HCM platform with organizational structure management, competences, and extensible HR processes that can support planning workflows.
+
+
+
+- **[Jorani](https://github.com/jorani/jorani)** [![GitHub stars](https://img.shields.io/github/stars/jorani/jorani?style=social&color=white)](https://github.com/jorani/jorani/stargazers)  
+
+  Open-source leave and absence management system that tracks workforce availability and supports HR planning workflows.
+
+
+
+- **[OptaPy](https://github.com/optapy/optapy)** [![GitHub stars](https://img.shields.io/github/stars/optapy/optapy?style=social&color=white)](https://github.com/optapy/optapy/stargazers)  
+
+  Open-source Python constraint solver for shift scheduling and rostering problems, built on the Timefold/OptaPlanner engine.
 
 
 

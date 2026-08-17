@@ -259,3 +259,9 @@ Consider your organization size, budget, existing HRIS and finance stack, and wh
 **🌟 Made for HR leaders, people analytics teams, finance partners, and organizations seeking more transparent workforce planning.**
 
 💡 Let's make headcount and organizational planning more open, scenario-driven, and data-informed.
+
+
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Workforce-Planning-Platform)](https://star-history.dera.page/#ishandutta2007/Awesome-Workforce-Planning-Platform)

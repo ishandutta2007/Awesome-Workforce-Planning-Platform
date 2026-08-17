@@ -1,5 +1,7 @@
 # Awesome-Workforce-Planning-Platform
 
+![Awesome Workforce Planning Platforms banner — curated SaaS and open-source tools for headcount planning, scenario modeling, org design, skills and capacity forecasting, and labor cost planning](assets/banner.svg)
+
 ## Top Workforce Planning Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**

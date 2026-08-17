@@ -62,67 +62,79 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[pyworkforce](https://github.com/rodrigo-arenas/pyworkforce)**  
+*Sorted by GitHub stars (descending) as of August 2026; each star badge links to that repo's stargazers page.*
 
-  Practical open-source Python library for workforce planning: queue staffing, multi-skill staffing, shift scheduling, rostering, and break optimization.
+- **[Odoo HR](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
 
-
-
-- **[Workforce-Compass](https://github.com/i-richardwang/Workforce-Compass)**  
-
-  Interactive Streamlit application for multi-year organizational talent structure forecasting and scenario planning.
+  Mature open-source ERP with an HR core that provides employee data, org structure, and attendance foundations for custom planning layers.
 
 
 
-- **[Workforce Planning Agent](https://github.com/mujeeb-k/workforce-planning-agent)**  
+- **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
 
-  Open-source agent that turns headcount targets and budgets into costed move / reskill / hire action plans and executive briefings.
-
-
-
-- **[Workforce Planner (allocation tool)](https://github.com/Iwan1212/workforce-planner)**  
-
-  Open-source visual timeline tool for IT and project-based companies to plan employee allocation, detect overbooking, and manage capacity.
+  Open-source ERP with an HRMS module providing employee data, org structure, and analytics foundations for custom planning layers.
 
 
 
-- **[MASTERPLAN](https://github.com/schorschii/masterplan)**  
+- **[OR-Tools](https://github.com/google/or-tools)** [![GitHub stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers)  
 
-  Web-based open-source workforce management and duty-roster system with automatic scheduling and self-service features.
+  Google's open optimization library used to solve complex capacity, skill-mix, and roster constraints in workforce planning.
 
 
 
-- **[MintHCM](https://github.com/minthcm/minthcm)**  
+- **[Frappe HR](https://github.com/frappe/hrms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
+
+  Open-source HR and people-operations app on the Frappe framework covering employee records, leaves, and workforce data.
+
+
+
+- **[OrangeHRM](https://github.com/orangehrm/orangehrm)** [![GitHub stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)  
+
+  Mature open-source HR management system with employee data, org structure, and absence tracking that can support planning workflows.
+
+
+
+- **[MintHCM](https://github.com/minthcm/minthcm)** [![GitHub stars](https://img.shields.io/github/stars/minthcm/minthcm?style=social&color=white)](https://github.com/minthcm/minthcm/stargazers)  
 
   Open-source AI-native HCM platform with organizational structure management, competences, and extensible HR processes that can support planning workflows.
 
 
 
-- **[org-as-code and organizational-design frameworks](https://github.com/)**  
+- **[pyworkforce](https://github.com/rodrigo-arenas/pyworkforce)** [![GitHub stars](https://img.shields.io/github/stars/rodrigo-arenas/pyworkforce?style=social&color=white)](https://github.com/rodrigo-arenas/pyworkforce/stargazers)  
 
-  Open frameworks and specs for treating organizational design like code (YAML/JSON schemas, templates, governance models).
-
-
-
-- **[OrangeHRM, Odoo HR, Frappe HR / ERPNext](https://github.com/)**  
-
-  Mature open-source HR cores that provide employee data, org structure, and basic analytics foundations for custom planning layers.
+  Practical open-source Python library for workforce planning: queue staffing, multi-skill staffing, shift scheduling, rostering, and break optimization.
 
 
 
-- **[Custom headcount & scenario models](https://github.com/)**  
+- **[MASTERPLAN](https://github.com/schorschii/masterplan)** [![GitHub stars](https://img.shields.io/github/stars/schorschii/masterplan?style=social&color=white)](https://github.com/schorschii/masterplan/stargazers)  
 
-  Community Python/Streamlit or spreadsheet-replacement tools for attrition, promotion, and recruitment scenario modeling.
+  Web-based open-source workforce management and duty-roster system with automatic scheduling and self-service features.
 
 
 
-- **[OR-Tools / constraint solvers applied to staffing](https://github.com/)**  
+- **[Workforce Planner (allocation tool)](https://github.com/Iwan1212/workforce-planner)** [![GitHub stars](https://img.shields.io/github/stars/Iwan1212/workforce-planner?style=social&color=white)](https://github.com/Iwan1212/workforce-planner/stargazers)  
 
-  Open optimization libraries used to solve complex capacity, skill-mix, and roster constraints in workforce planning.
+  Open-source visual timeline tool for IT and project-based companies to plan employee allocation, detect overbooking, and manage capacity.
+
+
+
+- **[Workforce-Compass](https://github.com/i-richardwang/Workforce-Compass)** [![GitHub stars](https://img.shields.io/github/stars/i-richardwang/Workforce-Compass?style=social&color=white)](https://github.com/i-richardwang/Workforce-Compass/stargazers)  
+
+  Interactive Streamlit application for multi-year organizational talent structure forecasting and scenario planning.
+
+
+
+- **[Workforce Planning Agent](https://github.com/mujeeb-k/workforce-planning-agent)** [![GitHub stars](https://img.shields.io/github/stars/mujeeb-k/workforce-planning-agent?style=social&color=white)](https://github.com/mujeeb-k/workforce-planning-agent/stargazers)  
+
+  Open-source agent that turns headcount targets and budgets into costed move / reskill / hire action plans and executive briefings.
 
 
 
 ### Additional Strong Open-Source Options
+
+- Org-as-code and organizational-design frameworks (YAML/JSON org schemas, templates, and governance models).
+
+- Custom headcount & scenario models — community Python/Streamlit or spreadsheet-replacement tools for attrition, promotion, and recruitment scenario modeling.
 
 - Frepple and other open planning engines (primarily supply-chain oriented but adaptable to capacity thinking).
 

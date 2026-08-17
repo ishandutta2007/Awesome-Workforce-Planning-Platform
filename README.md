@@ -40,81 +40,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Anaplan / Anaplan Workforce Planning](https://www.anaplan.com/)**  
+| Product | Description | Pricing (starting tier) | Free tier / trial |
+| --- | --- | --- | --- |
+| **[Anaplan / Anaplan Workforce Planning](https://www.anaplan.com/)** | Enterprise connected-planning platform widely used for workforce cost forecasting, headcount modeling, and integration of people plans with finance and operations. | Custom quote; entry-level from ~$20K–$50K/yr, typical enterprise deals $150K–$1M+/yr | No commercial free tier — 90-day free workspace via the Anaplan Talent Builder learning program; free demo |
+| **[Workday Adaptive Planning](https://www.workday.com/)** | Cloud planning solution tightly integrated with Workday HCM for headcount forecasting, workforce budgeting, and finance-HR alignment. | Custom quote; entry-level ~$50K/yr (20-user pack lists at ~$135K/yr; typical deals $94K–$108K/yr) | 30-day free trial (full access, no obligation) |
+| **[Visier / Visier People Planning](https://www.visier.com/)** | People-analytics and workforce-planning platform focused on insights, predictive scenarios, and data-driven talent decisions. | Custom per-employee pricing; annual contracts ~$50K–$300K+ | 30-day free trial (sandbox with admin privileges and sample data) |
+| **[Orgvue](https://www.orgvue.com/)** | Organizational design and workforce transformation platform strong in scenario modeling, structure visualization, and future-state planning. | Custom quote; estimated ~$30K–$150K+/yr for a mid-sized company | No free trial — free demo / free 2-hour advisory workshop only |
+| **[ChartHop](https://www.charthop.com/)** | People operations platform with visual org charts, headcount planning, compensation, and workforce insights for mid-market and growing companies. | $8/employee/month for the first module, $4/employee/month per additional module; $9,000/yr minimum (Core from $5/employee/month) | 14-day free trial of ChartHop Basic |
+| **[One Model](https://www.onemodel.co/)** | People-analytics and workforce-planning platform that unifies HR data for advanced reporting and planning use cases. | Custom quote (data-volume based); annual contracts estimated $30K–$150K | No public free tier — demo/POC on request |
+| **[SAP SuccessFactors Workforce Planning / SAP Workforce Planning](https://www.sap.com/)** | Enterprise workforce planning capabilities within the SAP SuccessFactors and broader SAP planning ecosystem. | Module-based custom pricing: ~$6–$38/user/month depending on bundle; Workforce Analytics module ~$3,770/yr | 30-day free trial of SuccessFactors HCM (guided tours, no setup) |
+| **[PeopleFluent](https://www.peoplefluent.com/)** | Talent management and workforce planning solutions covering succession, skills, and organizational planning. | From $20,000/yr (annual subscription); Org Charting module ~$50/user/month | Free trial on request |
+| **[IBM Planning Analytics](https://www.ibm.com/)** | Enterprise planning and analytics platform (TM1-based) used for workforce, financial, and operational scenario modeling. | Essentials ~$825/month for 5 users (~$165/user/month); Cloud Standard ~$1,650/month for 10 users | 30-day free trial |
+| **[Board](https://www.board.com/)** | Intelligent planning and decision-making platform supporting workforce, financial, and integrated business planning. | Custom quote; ~$1,250/user/yr basic license (est.), enterprise subscriptions from ~$80K/yr | No free trial — demo only |
+| **[Pigment](https://www.pigment.com/)** | Modern business planning platform with flexible modeling that includes workforce and headcount planning use cases. | Custom quote; entry-level ~$30K–$50K/yr (typical mid-market licensing $75K–$200K/yr) | No self-service free trial — demo/POC on request |
+| **[HiBob Workforce Planning](https://www.hibob.com/)** | Workforce planning features within the HiBob people platform for growing and mid-sized organizations. | ~$16–$25/employee/month (custom quote; lower at higher volumes) | No self-serve free trial — 30-min guided demo |
+| **[Peakon Planning (Workday)](https://www.workday.com/)** | Planning and people-insights capabilities associated with the Peakon engagement platform under the Workday umbrella. | From ~$20K/yr (Workday Peakon Employee Voice; per-employee pricing under Workday contracts) | No free tier — demo only |
 
-  Enterprise connected-planning platform widely used for workforce cost forecasting, headcount modeling, and integration of people plans with finance and operations.
-
-
-
-- **[Workday Adaptive Planning](https://www.workday.com/)**  
-
-  Cloud planning solution tightly integrated with Workday HCM for headcount forecasting, workforce budgeting, and finance-HR alignment.
-
-
-
-- **[Visier / Visier People Planning](https://www.visier.com/)**  
-
-  People-analytics and workforce-planning platform focused on insights, predictive scenarios, and data-driven talent decisions.
-
-
-
-- **[Orgvue](https://www.orgvue.com/)**  
-
-  Organizational design and workforce transformation platform strong in scenario modeling, structure visualization, and future-state planning.
-
-
-
-- **[ChartHop](https://www.charthop.com/)**  
-
-  People operations platform with visual org charts, headcount planning, compensation, and workforce insights for mid-market and growing companies.
-
-
-
-- **[One Model](https://www.onemodel.co/)**  
-
-  People-analytics and workforce-planning platform that unifies HR data for advanced reporting and planning use cases.
-
-
-
-- **[SAP SuccessFactors Workforce Planning / SAP Workforce Planning](https://www.sap.com/)**  
-
-  Enterprise workforce planning capabilities within the SAP SuccessFactors and broader SAP planning ecosystem.
-
-
-
-- **[PeopleFluent](https://www.peoplefluent.com/)**  
-
-  Talent management and workforce planning solutions covering succession, skills, and organizational planning.
-
-
-
-- **[IBM Planning Analytics](https://www.ibm.com/)**  
-
-  Enterprise planning and analytics platform (TM1-based) used for workforce, financial, and operational scenario modeling.
-
-
-
-- **[Board](https://www.board.com/)**  
-
-  Intelligent planning and decision-making platform supporting workforce, financial, and integrated business planning.
-
-
-
-- **[Pigment](https://www.pigment.com/)**  
-
-  Modern business planning platform with flexible modeling that includes workforce and headcount planning use cases.
-
-
-
-- **[HiBob Workforce Planning](https://www.hibob.com/)**  
-
-  Workforce planning features within the HiBob people platform for growing and mid-sized organizations.
-
-
-
-- **[Peakon Planning (Workday)](https://www.workday.com/)**  
-
-  Planning and people-insights capabilities associated with the Peakon engagement platform under the Workday umbrella.
+*Pricing figures are the lowest publicly reported starting tiers as of August 2026; most enterprise vendors price per deployment and require a quote.*
 
 
 
